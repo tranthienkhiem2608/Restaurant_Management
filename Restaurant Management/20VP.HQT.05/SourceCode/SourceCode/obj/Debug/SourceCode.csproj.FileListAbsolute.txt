@@ -1,0 +1,100 @@
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\bin\Debug\SourceCode.exe.config
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\bin\Debug\SourceCode.exe
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\bin\Debug\SourceCode.pdb
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.AssemblyReference.cache
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\obj\Debug\SourceCode.Admin.resources
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\obj\Debug\SourceCode.DoiTac.resources
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\obj\Debug\SourceCode.Form1.resources
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\obj\Debug\SourceCode.Form2.resources
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\obj\Debug\SourceCode.Form3.resources
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\obj\Debug\SourceCode.Form4.resources
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\obj\Debug\SourceCode.Form5.resources
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\obj\Debug\SourceCode.KhachHang.resources
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\obj\Debug\SourceCode.NhanVien.resources
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\obj\Debug\SourceCode.Properties.Resources.resources
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\obj\Debug\SourceCode.TaiXe.resources
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.GenerateResource.cache
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.CoreCompileInputs.cache
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\obj\Debug\SourceCode.exe
+C:\Users\ledak\Downloads\HQT_CSDL_DO_AN_THUC_HANH-main\SourceCode\SourceCode\obj\Debug\SourceCode.pdb
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\bin\Debug\SourceCode.exe.config
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\bin\Debug\SourceCode.exe
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\bin\Debug\SourceCode.pdb
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.Admin.resources
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.DoiTac.resources
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.Form1.resources
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.Form2.resources
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.Form3.resources
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.Form4.resources
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.Form5.resources
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.KhachHang.resources
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.NhanVien.resources
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.Properties.Resources.resources
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.TaiXe.resources
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.exe
+C:\Users\HP\Desktop\HQTCSDL\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.pdb
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\bin\Debug\SourceCode.exe.config
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\bin\Debug\SourceCode.exe
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\bin\Debug\SourceCode.pdb
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.AssemblyReference.cache
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.SuggestedBindingRedirects.cache
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.Admin.resources
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.DoiTac.resources
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.Form1.resources
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.Form2.resources
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.Form3.resources
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.Form4.resources
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.Form5.resources
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.KhachHang.resources
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.NhanVien.resources
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.Properties.Resources.resources
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.TaiXe.resources
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.GenerateResource.cache
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.CoreCompileInputs.cache
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.exe
+D:\HQTCSDL\Đồ án\HQTCSDL\SourceCode\SourceCode\obj\Debug\SourceCode.pdb
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.Admin.resources
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.DoiTac.resources
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.Form1.resources
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.Form2.resources
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.Form3.resources
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.Form4.resources
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.Form5.resources
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.KhachHang.resources
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.NhanVien.resources
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.Properties.Resources.resources
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.TaiXe.resources
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.exe
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.pdb
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\bin\Debug\SourceCode.exe.config
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\bin\Debug\SourceCode.exe
+C:\Users\HP\Desktop\20VP.HQT.05\20VP.HQT.05\SourceCode\SourceCode\bin\Debug\SourceCode.pdb
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\bin\Debug\SourceCode.exe.config
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\bin\Debug\SourceCode.exe
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\bin\Debug\SourceCode.pdb
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.AssemblyReference.cache
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.Admin.resources
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.DoiTac.resources
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.Form1.resources
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.Form2.resources
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.Form3.resources
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.Form4.resources
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.Form5.resources
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.KhachHang.resources
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.NhanVien.resources
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.Properties.Resources.resources
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.TaiXe.resources
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.GenerateResource.cache
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.CoreCompileInputs.cache
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.exe
+C:\Users\ledak\OneDrive\Máy tính\20VP.HQT.05\SourceCode\SourceCode\obj\Debug\SourceCode.pdb
